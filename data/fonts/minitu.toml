@@ -7,5 +7,5 @@ google_fonts = "family=Poppins:wght@400;700&family=Source+Sans+Pro:wght@400;700&
 # Font families
 heading_font = "Poppins"
 body_font = "Source Sans Pro"
-nav_font = "Source Sans Pro"
+nav_font = "Poppins"
 mono_font = "Ubuntu Mono"
