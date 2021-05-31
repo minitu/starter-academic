@@ -64,8 +64,6 @@ email: "jaemin@acm.org"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher for GPU support in the asynchronous task-based programming model, Charm++.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
