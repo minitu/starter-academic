@@ -14,7 +14,7 @@ organizations:
   url: https://illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher for GPU support in the asynchronous task-based programming model, Charm++.
+bio: Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating performance inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher of GPU support in Charm++, a widely used asynchronous task-based parallel programming model.
 
 # Interests to show in About widget
 interests:
@@ -64,6 +64,6 @@ email: "jaemin@acm.org"
 highlight_name: true
 ---
 
-Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher for GPU support in the asynchronous task-based programming model, Charm++.
+Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating performance inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher of GPU support in Charm++, a widely used asynchronous task-based parallel programming model.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
