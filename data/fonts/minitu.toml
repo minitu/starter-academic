@@ -2,10 +2,10 @@
 name = "minitu"
 
 # Optional Google font URL
-google_fonts = "family=Ubuntu+Mono:wght@400;700&family=Mukta:wght@500;700&family=Roboto+Slab:wght@400;700&family=Source+Serif+Pro:wght@600;700"
+google_fonts = "family=Ubuntu+Mono:wght@400;700&family=Mukta:wght@500;700&family=Roboto+Slab:wght@400;700&family=Enriqueta:wght@500;700"
 
 # Font families
 heading_font = "Mukta"
-body_font = "Source Serif Pro"
+body_font = "Enriqueta"
 nav_font = "Mukta"
 mono_font = "Ubuntu Mono"
