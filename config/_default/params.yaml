@@ -23,16 +23,16 @@ twitter: ''
 email: jaemin@acm.org
 #phone: 888 888 88 88
 address:
-  street: 201 N Goodwin Ave
-  city: Urbana
-  region: IL
-  postcode: '61820'
+  street: 2788 San Tomas Expy
+  city: Santa Clara
+  region: CA
+  postcode: '95051'
   country: United States
   country_code: US
 coordinates:
-  latitude: '40.114024'
-  longitude: '-88.224948'
-directions: Thomas M. Siebel Center for Computer Science
+  latitude: '37.370633'
+  longitude: '-121.967194'
+directions: NVIDIA Corporation
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
