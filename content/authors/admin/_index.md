@@ -6,18 +6,19 @@ title: Jaemin Choi
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Computer Science
+role: Senior Deep Learning Architect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: https://illinois.edu/
+- name: NVIDIA Corporation
+  url: https://www.nvidia.com/en-us/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating performance inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher of GPU support in Charm++, a widely used asynchronous task-based parallel programming model.
+bio: Jaemin Choi is a Senior Deep Learning Architect at NVIDIA Corporation. With broad interests in Deep Learning, High Performance Computing (HPC) and GPU Computing, his work involves analyzing and optimizing deep learning training performance at scale and driving HW/SW co-design of NVIDIA's full deep learning platform stack from silicon to DL frameworks.
 
 # Interests to show in About widget
 interests:
+- Deep Learning
 - High Performance Computing
 - GPU Computing
 - Parallel Programming Models and Runtime Systems
@@ -26,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Illinois at Urbana-Champaign
+    institution: University of Illinois Urbana-Champaign
     year: 2016-2022
   - course: BSc in Computer Science and Engineering
     institution: Seoul National University
@@ -64,6 +65,6 @@ email: "jaemin@acm.org"
 highlight_name: true
 ---
 
-Jaemin Choi is a PhD Candidate in Computer Science at the University of Illinois at Urbana-Champaign. He joined the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale as a research assistant in 2016. With broad interests in High Performance Computing (HPC) and GPU Computing, his research focuses on mitigating performance inefficiencies and scalability issues on today's GPU-accelerated systems from a runtime system point of view. He is the lead developer/researcher of GPU support in Charm++, a widely used asynchronous task-based parallel programming model.
+Jaemin Choi is a Senior Deep Learning Architect at NVIDIA Corporation. He received his PhD degree in Computer Science from the University of Illinois Urbana-Champaign, where he performed research on GPU-accelerated high-performance computing with the Charm++ parallel programming system at the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale. With broad interests in Deep Learning, High Performance Computing (HPC) and GPU Computing, his work involves analyzing and optimizing deep learning training performance at scale and driving HW/SW co-design of NVIDIA's full deep learning platform stack from silicon to DL frameworks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
