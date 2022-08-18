@@ -22,28 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Senior Deep Learning Architect
+    company: NVIDIA
+    company_url: 'https://www.nvidia.com/en-us/'
+    company_logo: org-nv
+    location: Santa Clara, CA
+    date_start: '2022-08-29'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
+        * Guide development of future generations of deep learning processors and computing platforms.
 
 design:
   columns: '2'
