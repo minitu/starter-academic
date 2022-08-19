@@ -67,4 +67,4 @@ highlight_name: true
 
 Jaemin Choi is a Senior Deep Learning Architect at NVIDIA Corporation. With broad interests in Deep Learning, High Performance Computing (HPC) and GPU Computing, his work involves analyzing and optimizing deep learning training performance at scale and driving HW/SW co-design of NVIDIA's full deep learning platform stack from silicon to DL frameworks. He received his PhD degree in Computer Science from the University of Illinois Urbana-Champaign, where he performed research on GPU-accelerated high-performance computing with the Charm++ parallel programming system at the Parallel Programming Laboratory (PPL) led by Prof. Laxmikant (Sanjay) Kale.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
