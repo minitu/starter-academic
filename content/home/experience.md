@@ -30,8 +30,10 @@ experience:
     date_start: '2022-08-29'
     date_end: ''
     description: |2-
-        * Understand, analyze, profile, and optimize deep learning training workloads on state-of-the-art hardware and software platforms.
-        * Guide development of future generations of deep learning processors and computing platforms.
+        * Key contributor to NVIDIA's success at MLPerf Training benchmarks, focused on performance optimizations of training generative AI models including large language models (GPT-3), parameter-efficient fine-tuning (PEFT on LLaMa-2-70B), text-to-image models (Stable Diffusion), and computer vision benchmarks (RetinaNet).
+        * Benchmark and project performance of deep learning workloads on the latest and next-generation NVIDIA GPUs, to identify performance bottlenecks and build roadmaps to achieving peak performance.
+        * Optimize training performance across all scales, from a single DGX to thousands of compute nodes on large-scale supercomputers such as NVIDIA Eos.
+        * Collaborate with various deep learning framework, library, and kernel development teams at NVIDIA, including PyTorch, cuDNN, cuBLAS, DALI, NeMo, Megatron-LM, and TransformerEngine.
   - title: Research Assistant
     company: Parallel Programming Laboratory, UIUC
     company_url: 'https://charm.cs.illinois.edu/'
