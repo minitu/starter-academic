@@ -18,10 +18,11 @@ bio: Jaemin Choi is a Senior Deep Learning Architect at NVIDIA Corporation. With
 
 # Interests to show in About widget
 interests:
-- Deep Learning
+- Large-scale Training of Deep Learning Models
 - High Performance Computing
 - GPU Computing
 - Parallel Programming Models and Runtime Systems
+- Performance Modeling
 
 # Education to show in About widget
 education:
